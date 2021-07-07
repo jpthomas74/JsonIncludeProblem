@@ -1,0 +1,11 @@
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\bin\Debug\net6.0\LearnData.deps.json
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\bin\Debug\net6.0\LearnData.dll
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\bin\Debug\net6.0\ref\LearnData.dll
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\bin\Debug\net6.0\LearnData.pdb
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\obj\Debug\net6.0\LearnData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\obj\Debug\net6.0\LearnData.AssemblyInfoInputs.cache
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\obj\Debug\net6.0\LearnData.AssemblyInfo.cs
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\obj\Debug\net6.0\LearnData.csproj.CoreCompileInputs.cache
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\obj\Debug\net6.0\LearnData.dll
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\obj\Debug\net6.0\ref\LearnData.dll
+C:\Users\Jacob.Thomas\source\repos\LearnProjects\LearnsAPI\LearnData\obj\Debug\net6.0\LearnData.pdb

@@ -1,0 +1,25 @@
+﻿@using LearnData
+@{
+    ViewData["Title"] = "Privacy Policy";
+    IEnumerable<Customer> excludedData = ViewBag.ExcludedData;
+    IEnumerable<Customer> includedData = ViewBag.IncludedData;
+
+}
+
+@if(excludedData != null)
+{
+    <h1>Excluded Data</h1>
+    @foreach (var customer in excludedData)
+    {
+        <h3>@customer.Name</h3>
+    }
+}
+
+@if (includedData != null)
+{
+    <h1>Included Data</h1>
+    @foreach (var customer in includedData)
+    {
+        <h3>@customer.Name</h3>
+    }
+}
